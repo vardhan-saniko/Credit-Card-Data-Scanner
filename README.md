@@ -82,6 +82,7 @@ python create_logs.py /Users/vishnuvardhan/PycharmProjects/strac/logs.txt gen-se
 
 ## Lambda function
 
+<img width="1774" alt="Screenshot 2023-10-17 at 7 26 34 PM" src="https://github.com/vardhan-saniko/Credit-Card-Data-Scanner/assets/90535201/83943fd2-dd24-4f2f-94e0-33de97cd8d13">
 
 
 
