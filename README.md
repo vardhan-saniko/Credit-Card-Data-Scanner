@@ -80,7 +80,9 @@ Ex:
 python create_logs.py /Users/vishnuvardhan/PycharmProjects/strac/logs.txt gen-sensitve-sensitive-info-cloudwatch-logs
 ```
 
-## Video Link
+## Lambda function
+
+
 
 
 ## References:
