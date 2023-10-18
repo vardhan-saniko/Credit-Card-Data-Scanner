@@ -1,0 +1,13 @@
+{
+  "AWS_KEY": "AKIAUKV4LEJMFHMRQ3MK",
+  "AWS_SECRET": "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",
+  "AWS_REGION": "us-east-1",
+  "SNS_TOPIC_NAME": "sensitive-info-alerts",
+  "EMAIL": "vishnuvardhan054@gmail.com",
+  "LAMBDA_FUNCTION_CREATE_LOGS": "create-cloudwatch-logs",
+  "LAMBDA_FUNCTION_CREATE_ALERTS": "create-sensitive-info-alerts",
+  "LAMBDA_CREATE_LOGS_ZIP_PATH": "/Users/vishnuvardhan/PycharmProjects/strac/aws_lambda/cw_logs.zip",
+  "LAMBDA_CREATE_ALERTS_ZIP_PATH": "/Users/vishnuvardhan/PycharmProjects/strac/aws_lambda/sensitive_info_alert.zip"
+}
+
+
